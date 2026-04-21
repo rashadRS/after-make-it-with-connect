@@ -1,0 +1,176 @@
+{
+  "ar": {
+    "brand": "StudyTech Advisor",
+    "nav": {
+      "home": "الرئيسية",
+      "learn": "أساسيات التقنية",
+      "quiz": "الاختبار",
+      "devices": "الأجهزة الموثوقة",
+      "favorites": "المفضلة",
+      "contact": "التواصل",
+      "dashboard": "لوحة التحكم",
+      "signin": "تسجيل الدخول",
+      "signup": "إنشاء حساب",
+      "logout": "تسجيل الخروج"
+    },
+    "hero": {
+      "title": "اختر جهازك الجامعي بثقة.",
+      "subtitle": "مساعد ذكي ثنائي اللغة يوصي بأفضل جهاز حسب تخصصك وميزانيتك.",
+      "start": "ابدأ الاختبار",
+      "learn": "تعلّم الأساسيات"
+    },
+    "quiz": {
+      "title": "اختبار StudyTech الذكي",
+      "next": "التالي",
+      "back": "السابق",
+      "submit": "عرض النتائج",
+      "other": "أخرى",
+      "otherPlaceholder": "اكتب إجابتك...",
+      "progress": "التقدم"
+    },
+    "results": {
+      "title": "أفضل الترشيحات لك",
+      "reason": "سبب الترشيح",
+      "view": "عرض المنتج",
+      "save": "حفظ في المفضلة",
+      "saved": "تم الحفظ",
+      "reasons": {
+        "coding": "معالج وذاكرة قويان للبرمجة.",
+        "design": "أداء رسومي مناسب للتصميم.",
+        "business": "خفيف وبطارية ممتازة للدراسة اليومية.",
+        "heavy": "قدرة عالية للمهام الهندسية الثقيلة.",
+        "battery": "متوافق مع أولوية البطارية.",
+        "portability": "متوافق مع أولوية الخفة والتنقل.",
+        "performance": "متوافق مع أولوية الأداء.",
+        "display": "متوافق مع أولوية جودة الشاشة.",
+        "default": "خيار متوازن لاحتياجات الطالب."
+      }
+    },
+    "devices": {
+      "title": "أجهزة موثوقة",
+      "view": "عرض المنتج"
+    },
+    "learn": {
+      "title": "أساسيات شراء الجهاز",
+      "what": "ما هو؟",
+      "why": "لماذا مهم؟",
+      "example": "مثال",
+      "mistake": "خطأ شائع"
+    },
+    "contact": {
+      "title": "خبير أجهزة",
+      "cta": "تواصل عبر واتساب",
+      "name": "الاسم",
+      "email": "البريد الإلكتروني",
+      "message": "رسالتك"
+    },
+    "auth": {
+      "welcome": "مرحبًا",
+      "email": "البريد الإلكتروني",
+      "name": "الاسم",
+      "password": "كلمة المرور",
+      "signin": "تسجيل الدخول",
+      "signup": "إنشاء حساب"
+    },
+    "favorites": {
+      "title": "أجهزتك المفضلة",
+      "empty": "لا توجد أجهزة محفوظة بعد.",
+      "remove": "إزالة"
+    },
+    "dashboard": {
+      "title": "لوحة التحكم",
+      "subtitle": "عرض سريع للمفضلة والحساب"
+    },
+    "sound": {
+      "mute": "كتم",
+      "unmute": "تشغيل الصوت"
+    }
+  },
+  "en": {
+    "brand": "StudyTech Advisor",
+    "nav": {
+      "home": "Home",
+      "learn": "Learn Basics",
+      "quiz": "Quiz",
+      "devices": "Trusted Devices",
+      "favorites": "Favorites",
+      "contact": "Contact",
+      "dashboard": "Dashboard",
+      "signin": "Sign In",
+      "signup": "Sign Up",
+      "logout": "Logout"
+    },
+    "hero": {
+      "title": "Choose your university device with confidence.",
+      "subtitle": "A bilingual smart advisor that recommends the best laptop based on your major and budget.",
+      "start": "Start Quiz",
+      "learn": "Learn Basics"
+    },
+    "quiz": {
+      "title": "StudyTech Smart Quiz",
+      "next": "Next",
+      "back": "Back",
+      "submit": "Show Results",
+      "other": "Other",
+      "otherPlaceholder": "Type your answer...",
+      "progress": "Progress"
+    },
+    "results": {
+      "title": "Your Top Recommendations",
+      "reason": "Why this matches",
+      "view": "View Product",
+      "save": "Save to Favorites",
+      "saved": "Saved",
+      "reasons": {
+        "coding": "Strong CPU and RAM profile for coding.",
+        "design": "Well-suited graphics and display profile.",
+        "business": "Portable with dependable battery life.",
+        "heavy": "High performance for demanding software.",
+        "battery": "Aligned with your battery priority.",
+        "portability": "Aligned with your portability priority.",
+        "performance": "Aligned with your performance priority.",
+        "display": "Aligned with your display quality priority.",
+        "default": "Balanced choice for student needs."
+      }
+    },
+    "devices": {
+      "title": "Trusted Devices",
+      "view": "View Product"
+    },
+    "learn": {
+      "title": "Laptop Buying Basics",
+      "what": "What it is",
+      "why": "Why it matters",
+      "example": "Example",
+      "mistake": "Common mistake"
+    },
+    "contact": {
+      "title": "Device Advisor",
+      "cta": "Contact on WhatsApp",
+      "name": "Name",
+      "email": "Email",
+      "message": "Your message"
+    },
+    "auth": {
+      "welcome": "Welcome",
+      "email": "Email",
+      "name": "Name",
+      "password": "Password",
+      "signin": "Sign In",
+      "signup": "Create Account"
+    },
+    "favorites": {
+      "title": "Your Favorites",
+      "empty": "No saved devices yet.",
+      "remove": "Remove"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "subtitle": "Quick overview of your account and favorites"
+    },
+    "sound": {
+      "mute": "Mute",
+      "unmute": "Unmute"
+    }
+  }
+}
